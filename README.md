@@ -1,6 +1,6 @@
 Dijkstra's Indian Travel Optimizer!
 
-Could run two different programs:
+Runs two different programs:
 
 
 **(1) Interactive.java:** We want to plan a fun yet efficient trip for the user of this optimizer.
