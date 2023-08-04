@@ -1,6 +1,8 @@
 Project Title: Arnav's Indian Travel Optimizer!
 
 Could run two different programs:
+
+
 **(1) Interactive.java:** We want to plan a fun yet efficient trip for the user of this optimizer.
 This program asks the user to input which of the 100 cities they are starting from and want to end at
 (check last page of the user manual for list of these 100 cities). The goal is to get the user to explore cities
