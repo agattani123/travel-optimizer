@@ -1,4 +1,4 @@
-Project Title: Arnav's Indian Travel Optimizer!
+Dijkstra's Indian Travel Optimizer!
 
 Could run two different programs:
 
@@ -19,7 +19,7 @@ The frequencies of the number of times these cities were including in a travel r
 are included for minimum stops of 1, 2, and 3. Further analysis and functionality information is provided in the user manual.
 This code takes approximately 10 minutes to run due to it traversing and running the Dijkstra graph algorithm on approximately 30 thousand pairs of data.
 
-Technical Information: 
+**Technical Information: **
 Used jsoup to find 100 major cities that travellers frequently commute on. parsed html to find driving distance between
 cities. However, not every combination of cities had a driving distance (assuming there is a road in between cities), so
 I created a script on python using a google API and a distance matrix to calculate the distances (set to driving mode)
